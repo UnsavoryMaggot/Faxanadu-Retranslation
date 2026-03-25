@@ -4,67 +4,71 @@ Patch a Faxanadu (J) ROM to begin!
 Faxanadu Change Log
 
 v1.05+
-Created three patches;
-      (FCEU for FCEU emulators only,
+
+- Created three patches;
+-		        (FCEU for FCEU emulators only,
 			NES for real hardware and accurate emulators,
 			LITE for prepatched roms.)
-Death and Continue both load your save.
-You now load HP, MP, Ducats, and EXP.
-Fix Myconid Palette.
-Equip indoors.
-Wield weapons indoors.
-Fix Fire.
-Wing Boots get stronger, not weaker from ranking up.
-Set Guru Spawn Point to most recent, as opposed to most distant.
-Fix Fortress tile.
-Fix Jerky Vendor Portrait.
-Evil One Magic Def: All but Deluge.
+- Death and Continue both load your save.
+- You now load HP, MP, Ducats, and EXP.
+- Fix Myconid Palette.
+- Equip indoors.
+- Wield weapons indoors.
+- Fix Fire.
+- Wing Boots get stronger, not weaker from ranking up.
+- Set Guru Spawn Point to most recent, as opposed to most distant.
+- Fix Fortress tile.
+- Fix Jerky Vendor Portrait.
+- Evil One Magic Def: All but Deluge.
 
 v1.01
-Created two patches;
-                          (FCEU for FCEU emulators only,
-			                    NES for real hardware and accurate emulators)
-Fountain ladder bugfix;	  (The ladder before the World of Mist would be
-                  			  misplaced if you left the area quickly)
+- Created two patches;
+-		(FCEU for FCEU emulators only,
+		NES for real hardware and accurate emulators)
+- Fountain ladder bugfix;
+- 	  (The ladder before the World of Mist would be
+  	  misplaced if you left the area quickly)
 
 v1.00 (Public Release)
-Updated title screen;	    (continue will not appear without a save)
-Updated continue;	        ("aaaa" will not load, but it will delete your file)
-Hold A to speed up text
-Expanded ROM
-SRAM added
-Replaced Continue feature (Load)
-Replaced Mantra (Save)
-Save icon added
-Battle Armor inventory bugfix
-Dragon Slayer inventory bugfix
-Armor graphic bugfix
-Nurse cross graphic bugfix
-Pendant bugfix
-Name screen retained
-Name character code retained
-Page break character code added
-8x8 European font added
-16x16 "2xSAI" European font added
-8x8 / 16x16 font switch added
-Dialogue code reformatted for 8x8 European font
-Hudson USA script inserted
-Minor editing
-Original uncensored graphics retained
+- Updated title screen;
+- 		(continue will not appear without a save)
+- Updated continue;
+- 		("aaaa" will not load, but it will delete your file)
+- Hold A to speed up text
+- Expanded ROM
+- SRAM added
+- Replaced Continue feature (Load)
+- Replaced Mantra (Save)
+- Save icon added
+- Battle Armor inventory bugfix
+- Dragon Slayer inventory bugfix
+- Armor graphic bugfix
+- Nurse cross graphic bugfix
+- Pendant bugfix
+- Name screen retained
+- Name character code retained
+- Page break character code added
+- 8x8 European font added
+- 16x16 "2xSAI" European font added
+- 8x8 / 16x16 font switch added
+- Dialogue code reformatted for 8x8 European font
+- Hudson USA script inserted
+- Minor editing
+- Original uncensored graphics retained
 
 Special Thanks:
-Unsavory Maggot	(6502 ASM, Debug)
-Disch		(6502 ASM Support, MMC1 512k board/block switch code)
-		;Thank Disch for the accurate NES patch! :D
-snarfblam	(6502 ASM Support)
-SkyeWelse	(Bestiary, Bestiary Translation, Website)
-Xalphenos	(Japanese table, 6502 ASM Support)
-MP83		(Save icon, Japanese table)
-sp		(FCEU, Faxanadu Disassembly)
-King Mike	(ROM Expansion)
-Vagla		(6502 ASM Support)
-Radblast
-HylianFox
-frsj8112	(Debug)
-Raison Detritus	(Japanese table)
-kaimitai  (Several Graphic Fixes)
+- Unsavory Maggot	(6502 ASM, Debug)
+- Disch 		(6502 ASM Support, MMC1 512k board/block switch code)
+			;Thank Disch for the accurate NES patch! :D
+- snarfblam 		(6502 ASM Support)
+- SkyeWelse		(Bestiary, Bestiary Translation, Website)
+- Xalphenos		(Japanese table, 6502 ASM Support)
+- MP83			(Save icon, Japanese table)
+- sp			(FCEU, Faxanadu Disassembly)
+- King Mike		(ROM Expansion)
+- Vagla			(6502 ASM Support)
+- Radblast
+- HylianFox
+- frsj8112		(Debug)
+- Raison Detritus	(Japanese table)
+- kaimitai  		(Several Graphic Fixes)
