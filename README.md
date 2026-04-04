@@ -57,7 +57,7 @@ v1.00 (Public Release)
 - Original uncensored graphics retained
 
 Special Thanks:
-- Unsavory Maggot	(6502 ASM, Debug)
+- Ascended Mermaid	(6502 ASM, Debug)
 - Goutetsu			(Translation)
 - Disch 		(6502 ASM Support, MMC1 512k board/block switch code)
 			;Thank Disch for the accurate NES patch! :D
