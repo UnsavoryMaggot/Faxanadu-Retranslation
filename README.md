@@ -1,7 +1,13 @@
-Welcome to Faxanadu Restoration/Retranslation/Save Patch v1.05+!
-Patch a Faxanadu (J) ROM to begin!
+Welcome to Faxanadu Restoration/Retranslation/Save Patch v1.06+!
+
+Use LITE to patch Restoration or Retranslation v1.04, OR use NES to patch a Faxanadu (J) ROM to begin!
 
 Faxanadu Change Log
+
+v1.06+
+
+- Fix Title Screen color bug
+- Fix Ladder Jank
 
 v1.05+
 
