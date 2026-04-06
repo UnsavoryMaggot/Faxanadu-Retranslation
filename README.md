@@ -79,3 +79,5 @@ Special Thanks:
 - frsj8112		(Debug)
 - Raison Detritus	(Japanese table)
 - kaimitai  		(Several Graphic Fixes)
+- Chip			(Disassembly)
+- Jessica68k	(VARIOUS fixes and QOL!!!)
