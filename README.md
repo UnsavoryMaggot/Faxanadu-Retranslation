@@ -4,8 +4,6 @@ Use LITE to patch Restoration or Retranslation v1.04, OR use NES to patch a Faxa
 
 Faxanadu Change Log
 
-v1.06+
-
 v1.06.7+
 - Fix Title Screen color bug.
 - Fix Ladder Jank.
