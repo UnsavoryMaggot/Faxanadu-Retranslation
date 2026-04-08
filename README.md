@@ -6,13 +6,16 @@ Faxanadu Change Log
 
 v1.06+
 
-- Fix Title Screen color bug
-- Fix Ladder Jank
+v1.06.7+
+- Fix Title Screen color bug.
+- Fix Ladder Jank.
+- 			(For real, this time!)
+- Hidden item counter now increments in real time, for "RNG".
 
 v1.05+
 
 - Created three patches;
--		        (FCEU for FCEU emulators only,
+-			(FCEU for FCEU emulators only,
 			NES for real hardware and accurate emulators,
 			LITE for prepatched roms.)
 - Death and Continue both load your save.
