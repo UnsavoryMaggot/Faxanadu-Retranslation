@@ -7,8 +7,8 @@ Faxanadu Change Log
 v1.07+
 - New Game+
 -			(Select New Game from the title 
-- 			screen, and then select End if you
--			are satisfied with your old name.)
+ 			screen, and then select End if you
+			are satisfied with your old name.)
 
 v1.06.7+
 - Fix Title Screen color bug.
