@@ -1,8 +1,14 @@
-Welcome to Faxanadu Restoration/Retranslation/Save Patch v1.06+!
+Welcome to Faxanadu Restoration/Retranslation/Save Patch v1.07+!
 
 Use LITE to patch Restoration or Retranslation v1.04, OR use NES to patch a Faxanadu (J) ROM to begin!
 
 Faxanadu Change Log
+
+v1.07+
+- New Game+
+-			(Select New Game from the title 
+- 			screen, and then select End if you
+-			are satisfied with your old name.)
 
 v1.06.7+
 - Fix Title Screen color bug.
