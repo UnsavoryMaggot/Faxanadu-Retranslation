@@ -1,14 +1,16 @@
-Welcome to Faxanadu Restoration/Retranslation/Save Patch v1.07+!
+Welcome to Faxanadu Restoration/Retranslation/Save Patch v1.07.F+!
 
 Use LITE to patch Restoration or Retranslation v1.04, OR use NES to patch a Faxanadu (J) ROM to begin!
 
 Faxanadu Change Log
 
-v1.07+
+v1.07.F+
 - New Game+
--			(Select New Game from the title 
- 			screen, and then select End if you
-			are satisfied with your old name.)
+-		(Select New Game from the title 
+	 	screen, and then select End if you
+		are satisfied with your old name.)
+		New Game+ now starts the game without
+		the Battle equipment and Dragon Slayer.
 
 v1.06.7+
 - Fix Title Screen color bug.
