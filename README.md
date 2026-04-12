@@ -1,8 +1,11 @@
-Welcome to Faxanadu Restoration/Retranslation/Save Patch v1.07.F+!
+Welcome to Faxanadu Restoration/Retranslation/Save Patch v1.08+!
 
 Use LITE to patch Restoration or Retranslation v1.04, OR use NES to patch a Faxanadu (J) ROM to begin!
 
 Faxanadu Change Log
+
+v1.08
+- New Game+ now works as intended. Maybe. XD
 
 v1.07.F+
 - New Game+
