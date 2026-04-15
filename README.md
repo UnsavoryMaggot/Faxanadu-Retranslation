@@ -4,6 +4,11 @@ Use LITE to patch Restoration or Retranslation v1.04, OR use NES to patch a Faxa
 
 Faxanadu Change Log
 
+Faxanadu Retranslation Awakened LITE v1.00
+-		Patch any Faxanadu Retranslation to
+		remove or replace gendered language
+		with "elf".
+
 v1.08+
 - New Game+ now works as intended. Maybe. XD
 
