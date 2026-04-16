@@ -6,8 +6,8 @@ Faxanadu Change Log
 
 Faxanadu Retranslation Awakened LITE v1.00
 -		Patch any Faxanadu Retranslation to
-		remove or replace gendered language
-		with "elf".
+		remove or replace player gendered
+		language with "elf" or blank.
 
 v1.08+
 - New Game+ now works as intended. Maybe. XD
